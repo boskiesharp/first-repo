@@ -1,3 +1,7 @@
 # My first .gitgnore
 
 Logs
+*.exe
+
+
+# Another example... *.[ao] - ignores all .a and all .o files
